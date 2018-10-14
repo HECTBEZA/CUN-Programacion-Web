@@ -1,5 +1,5 @@
 # CUN-Programacion-Web
-Plantilla para presentacion de hoja de vida
+Presentacion Exposiciones
 echo "# CUN-Programacion-Web" >> README.md
 git init
 git add README.md
