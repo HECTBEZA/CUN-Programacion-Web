@@ -1,6 +1,6 @@
 # CUN-Programacion-Web
 Plantilla para presentacion de hoja de vida
-echo "# Hector-Beltran" >> README.md
+echo "# CUN-Programacion-Web" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
